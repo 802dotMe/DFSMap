@@ -11,7 +11,9 @@
         "contributor": "Joshua Williams",
         "channel": 120,
         "date": "11/12/2018",
-        "time": "02:35"
+        "time": "02:35",
+        "ap_mfr": "Aruba",
+        "ap_model": "AP-325"
       },
       "geometry": {
         "type": "Point",
@@ -31,7 +33,9 @@
         "contributor": "Joshua Williams",
         "channel": 120,
         "date": "11/12/2018",
-        "time": "02:35"
+        "time": "02:35",
+        "ap_mfr": "Aruba",
+        "ap_model": "AP-325"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +55,9 @@
         "contributor": "Joshua Williams",
         "channel": 120,
         "date": "11/12/2018",
-        "time": "02:36"
+        "time": "02:36",
+        "ap_mfr": "Ubiquiti",
+        "ap_model": "AC-AP-Pro"
       },
       "geometry": {
         "type": "Point",
