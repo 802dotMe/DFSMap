@@ -20,6 +20,46 @@
           35.21894291581768
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Norman PS Administration",
+        "contributor": "Joshua Williams",
+        "channel": 120,
+        "date": "11/12/2018",
+        "time": "02:35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.45252847671509,
+          35.21677793972687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lincoln Elementary School",
+        "contributor": "Joshua Williams",
+        "channel": 120,
+        "date": "11/12/2018",
+        "time": "02:36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.43600606918335,
+          35.21457784413924
+        ]
+      }
     }
   ]
 }
