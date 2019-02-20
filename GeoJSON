@@ -66,6 +66,26 @@
           35.21457784413924
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "",
+        "name": "McKinley Elementary School",
+        "contributor": "Braden Pickett",
+        "channel": 120,
+        "date": "09/18/2018",
+        "time": "17:44",
+        "ap_mfr": "Aruba",
+        "ap_model": "AP-205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.45327681303024,
+          35.20783474950672
+        ]
+      }
     }
   ]
 }
