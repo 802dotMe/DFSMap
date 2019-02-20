@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Norman High School",
+        "contributor": "Joshua Williams",
+        "channel": 120,
+        "date": "11/12/2018",
+        "time": "02:35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.45720624923706,
+          35.21894291581768
+        ]
+      }
+    }
+  ]
+}
